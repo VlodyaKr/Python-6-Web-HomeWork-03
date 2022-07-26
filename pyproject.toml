@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "homework-03"
+version = "0.1.0"
+description = ""
+authors = ["VlodyaKr <vlodya@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "3.10.5"
+prompt-toolkit = "^3.0.30"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
